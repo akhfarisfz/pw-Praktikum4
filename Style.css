@@ -1,0 +1,16 @@
+.judul{
+    font-size: 45px;
+}
+body{
+    
+    background-image: url('https://asset.kompas.com/crops/--6-LuksOkutCnqd004lz8A8yOY=/0x0:1000x667/750x500/data/photo/2020/04/14/5e94b9fa47e6a.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.judul{
+    align-items: center;
+    font-size: 45px;
+    padding-top: 10%;
+
+}
